@@ -15,9 +15,5 @@ public class E74Arrays {
         for(int i = 0; i < arr.length; i++){
             System.out.println(arr[i]*10);
         }
-
-
-        // Use another loop to multiply each element of the array by 10 and print the result
-
     }
 }
